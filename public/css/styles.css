@@ -1,0 +1,38 @@
+body {
+  background-image: url(/images/background.png);
+  text-align: center;
+}
+h1 img {
+  width: 613px;
+  height: auto;
+  margin: 20px;
+}
+input {
+  border: 1px solid #C4E3CB;
+  background: #F9F8ED;
+  font-size: 20px;
+  padding: 10px;
+  margin: 4px;
+}
+button {
+  border: 1px solid #6A9C78;
+  background: #FFF1BC;
+  font-size: 20px;
+  color: #686d76;
+  padding: 10px;
+  margin-top: 4px;
+}
+.result {
+  font-size: 30px;
+  font-style: oblique;
+  padding: 10px;
+  border: 1px solid #c4e3cb;
+  background: #FFF1BC;
+}
+
+div {
+  font-size: 20px;
+  color: #686d76;
+  padding: 10px;
+  margin: 4px
+}
