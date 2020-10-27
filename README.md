@@ -20,7 +20,7 @@ https://convertmymoney.filipegomes.dev/.
 
 ```
 npm install
-npm run dev
+node index.js
 ```
 2 - Para testes de desenvolvimento acesse no navegador `localhost:3000`.
 
