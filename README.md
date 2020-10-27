@@ -6,9 +6,7 @@ O projeto foi construído durante o curso Fullstack Master do [DevPleno](https:/
 
 https://convertmymoney.filipegomes.dev/.
 
-![](https://github.com/lipegomes/convertmymoney/blob/main/public/images/home.png)
-
-![](https://github.com/lipegomes/convertmymoney/blob/main/public/images/result.png)
+![](https://github.com/lipegomes/convertmymoney/blob/main/public/images/application.gif)
 
 ##
 
