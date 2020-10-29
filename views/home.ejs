@@ -1,9 +1,11 @@
 <%- include('header') %>
 <form method="GET" action="/cotacao">
-  <div class="container">
-    Digite o valor da cotação utilizando ponto (ex: 5.46).
+  <div>
+    <p>Caso deseje não utilizar a cotação do dolar do dia atual <br>
+      digite o valor da cotação utilizando ponto (ex: 5.46).
+    </p>
   </div>
-  <input name="cotacao" placeholder="Cotação dolar"><br>
+  <input name="cotacao" placeholder="Cotação dolar" value="<%= cotacao %>"><br>
   <input name="quantidade" placeholder="Quantidade de dolares"><br>
   <button>Converter!</button>
 </form>

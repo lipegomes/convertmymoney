@@ -2,6 +2,7 @@ body {
   background-color: #F9F8ED;
   text-align: center;
 }
+
 h1 img {
   width: 613px;
   height: auto;
@@ -30,9 +31,19 @@ button {
   background: #FFF1BC;
 }
 
-div {
+div p {
   font-size: 20px;
   color: #686d76;
   padding: 10px;
   margin: 4px
+}
+
+.wrapper {
+  min-height: 100%;
+  margin-bottom: -50px;
+}
+
+.footer,
+.push {
+  height: 50px;
 }
