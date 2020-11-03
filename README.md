@@ -35,6 +35,7 @@ Foi feito o deploy do projeto para produção utilizando o Vercel.
 ## Construído com:
 
 - [NodeJS](https://nodejs.org/) -  JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [Express](https://expressjs.com) - Simple web framework.
 - [EJS](https://ejs.co/) - Embedded JavaScript templating.
 - [Jest](https://jestjs.io/) - JavaScript Testing Framework with a focus on simplicity.
 - [Bootstrap](https://getbootstrap.com/) -  Popular frond-end opensource toolkit.
