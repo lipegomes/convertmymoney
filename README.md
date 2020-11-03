@@ -37,7 +37,7 @@ Foi feito o deploy do projeto para produção utilizando o Vercel.
 - [NodeJS](https://nodejs.org/) -  JavaScript runtime built on Chrome's V8 JavaScript engine.
 - [EJS](https://ejs.co/) - Embedded JavaScript templating.
 - [Jest](https://jestjs.io/) - JavaScript Testing Framework with a focus on simplicity.
-- [Font Awesome](https://fontawesome.com/) -  Web's icon set and toolkit, vector icons and social logos.
+- [Bootstrap](https://getbootstrap.com/) -  Popular frond-end opensource toolkit.
 
 ##
 
